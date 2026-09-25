@@ -267,7 +267,7 @@
   class FaceSensing {
     getInfo() {
       return {
-        id: "facesensing",
+        id: "faceSensing",
         name: Scratch.translate("Face Sensing"),
         blockIconURI,
 
